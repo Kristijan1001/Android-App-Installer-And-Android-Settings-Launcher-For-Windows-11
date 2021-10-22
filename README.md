@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/24441639/138526766-f413b2e8-13b8-40bc-b5f9-c8468d60709e.mp4
+
 This took me hours to figure out, since i have no clue on making stuff like this. Was trying to do it properly where it installs/opens the app and kills the server with no issues. Also wanted to make it so it doesn't include any extra files other than EXEs.
 
 Android App Installer:
