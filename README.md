@@ -8,7 +8,9 @@ Android App Installer:
 - Double click an .APK to Install It.
 
 Info: 
-The EXE contains all of the adb needed files for the installation process to work, it extracts them in C:\Users\XX\AppData\Local\Temp temporarily then deletes them once the application is installed, it also kills the adb server once it ends, leaving no traces. Application has been compiled by Bat To Exe Converter v3.2
+The EXE contains all of the adb needed files for the installation process to work, it extracts them in C:\Users\XX\AppData\Local\Temp temporarily then deletes them once the application is installed and reboots the Android System (Hopefully, This is because after few installs the ADB Server keeps refusing connection for some reason, this just hopefully makes it so that doesn't happen), it also kills the adb server once it ends, leaving no traces. 
+
+Application has been compiled by Bat To Exe Converter v3.2
 
 Android Settings Launcher:
 
@@ -16,12 +18,12 @@ Android Settings Launcher:
 
 The EXE Files only contain what is showed in the .BAT Files. Nothing extra. There are settings i have placed in by Bat To Exe Converter v3.2. I will include pictures of the settings made in BAT to Exe since i don't really know how else would i would show them. 
 
-![image](https://user-images.githubusercontent.com/24441639/138524882-2e590ffa-49dd-4b0c-83c7-f31e885d3ddd.png)
-![image](https://user-images.githubusercontent.com/24441639/138524897-f48f91e8-8be2-406f-867f-08612276ba3e.png)
-![image](https://user-images.githubusercontent.com/24441639/138524906-f227fd3e-b619-48c2-a8e2-76c90f719ff0.png)
+![image](https://user-images.githubusercontent.com/24441639/138525692-1d8c07ca-c10f-4e1e-8d64-1744c5bc0637.png)
+![image](https://user-images.githubusercontent.com/24441639/138525727-e784f2f4-bdd5-4c9c-95b8-362c27efbc8b.png)
+![image](https://user-images.githubusercontent.com/24441639/138525754-acf761a0-ddc8-453c-85ec-9aad46e55948.png)
 
 
-![image](https://user-images.githubusercontent.com/24441639/138524820-5065c18c-4d26-4b81-9153-b4aa7c57bc7d.png)
-![image](https://user-images.githubusercontent.com/24441639/138524836-684d3a7d-2a2d-48fe-9605-54eaee5d54dd.png)
-![image](https://user-images.githubusercontent.com/24441639/138524857-e704046e-4abb-4778-95b2-27459fbca458.png)
+![image](https://user-images.githubusercontent.com/24441639/138525708-9ebd2cc2-8d5f-4f45-b439-49752a2b11e4.png)
+![image](https://user-images.githubusercontent.com/24441639/138525766-9346b9ef-65da-4419-9379-1f05d9a4e30f.png)
+![image](https://user-images.githubusercontent.com/24441639/138525769-1477e2da-c2ab-4d18-9682-4bf835b678a6.png)
 
