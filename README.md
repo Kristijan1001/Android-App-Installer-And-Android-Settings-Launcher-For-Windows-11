@@ -14,7 +14,7 @@ Application has been compiled by Bat To Exe Converter v3.2
 
 Android Settings Launcher:
 
-- Launches Android Settings. Works the same way as the Android App Installer.
+- Launches Android Settings. Works the same way as the Android App Installer, Except doesn't include the reboot command for obvious resons.
 
 The EXE Files only contain what is showed in the .BAT Files. Nothing extra. There are settings i have placed in by Bat To Exe Converter v3.2. I will include pictures of the settings made in BAT to Exe since i don't really know how else would i would show them. 
 
@@ -23,7 +23,7 @@ The EXE Files only contain what is showed in the .BAT Files. Nothing extra. Ther
 ![image](https://user-images.githubusercontent.com/24441639/138525754-acf761a0-ddc8-453c-85ec-9aad46e55948.png)
 
 
-![image](https://user-images.githubusercontent.com/24441639/138525708-9ebd2cc2-8d5f-4f45-b439-49752a2b11e4.png)
-![image](https://user-images.githubusercontent.com/24441639/138525766-9346b9ef-65da-4419-9379-1f05d9a4e30f.png)
-![image](https://user-images.githubusercontent.com/24441639/138525769-1477e2da-c2ab-4d18-9682-4bf835b678a6.png)
+![image](https://user-images.githubusercontent.com/24441639/138526279-c011d321-ae4d-4a01-8228-2e61eb60c0a7.png)
+![image](https://user-images.githubusercontent.com/24441639/138526288-17c0246e-6962-42de-a5e3-dda05f55c584.png)
+![image](https://user-images.githubusercontent.com/24441639/138526267-350f4833-61a3-4c85-826b-e466355a5015.png)
 
