@@ -18,6 +18,11 @@ Android Settings Launcher:
 
 - Launches Android Settings. Works the same way as the Android App Installer, Except doesn't include the reboot command for obvious resons.
 
+NOTE: If for some reason the app doesn't get installed go to Windows Android Subsystem and Turn it Off, then launch the Files on top to start the system again.
+![image](https://user-images.githubusercontent.com/24441639/138528273-c9efb236-471f-4520-ac70-d148aa2373e9.png)
+
+
+
 The EXE Files only contain what is showed in the .BAT Files. Nothing extra. There are settings i have placed in by Bat To Exe Converter v3.2. I will include pictures of the settings made in BAT to Exe since i don't really know how else would i would show them. 
 
 ![image](https://user-images.githubusercontent.com/24441639/138525692-1d8c07ca-c10f-4e1e-8d64-1744c5bc0637.png)
