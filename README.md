@@ -5,7 +5,9 @@ NOTE: If for some reason the app doesn't get installed, Make sure the Android Sy
 ![image](https://user-images.githubusercontent.com/24441639/138623825-d80f36e0-2b2c-4c64-91db-80fd69ba7dab.png)
 
 Android.App.Installer.NO.REBOOT.exe = Will not Reboot the Android System (Suggest Getting This one)
+
 Android.App.Installer.exe = Will Reboot the Android System
+
 Android.Settings.exe = Will Open the Settings of WSA
 
 This took me hours to figure out, since i have no clue on making stuff like this. Was trying to do it properly where it installs/opens the app and kills the server with no issues. Also wanted to make it so it doesn't include any extra files other than EXEs.
