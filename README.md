@@ -1,5 +1,7 @@
 https://user-images.githubusercontent.com/24441639/138526766-f413b2e8-13b8-40bc-b5f9-c8468d60709e.mp4
 
+UPDATE: Looks like the issue not installing after awhile is because the ANDROID SYSTEM was shutting down on it own. So unless you have it set to be always ON, It will shut off. So apps won't install. So make sure it is always installed. So you can use the one that doesn't reboot the system just fine, i will keep both exe anyways.
+
 This took me hours to figure out, since i have no clue on making stuff like this. Was trying to do it properly where it installs/opens the app and kills the server with no issues. Also wanted to make it so it doesn't include any extra files other than EXEs.
 
 Android App Installer:
