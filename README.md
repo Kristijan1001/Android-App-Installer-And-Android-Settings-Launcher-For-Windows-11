@@ -1,7 +1,7 @@
 https://user-images.githubusercontent.com/24441639/138526766-f413b2e8-13b8-40bc-b5f9-c8468d60709e.mp4
 
 
-NOTE: If for some reason the app doesn't get installed, Make sure the Android System is running. You can simply do this by launchning the Files app in WSA.
+NOTE: If for some reason the app doesn't get installed, Make sure the Android System is running. You can simply do this by launchning the Files app in WSA. After awhile the System gets shut down if nothing is running, so apps won't get installed. To Fix this launch Files again or just set it to "Continuous" in WSA
 ![image](https://user-images.githubusercontent.com/24441639/138623825-d80f36e0-2b2c-4c64-91db-80fd69ba7dab.png)
 
 Android.App.Installer.NO.REBOOT.exe = Will not Reboot the Android System (Suggest Getting This one)
