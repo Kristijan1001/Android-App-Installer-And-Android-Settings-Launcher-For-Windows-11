@@ -1,6 +1,12 @@
 https://user-images.githubusercontent.com/24441639/138526766-f413b2e8-13b8-40bc-b5f9-c8468d60709e.mp4
 
-UPDATE: Looks like the issue not installing after awhile is because the ANDROID SYSTEM was shutting down on it's own. So unless you have it set to be always ON, It will shut off. So apps won't install. So make sure it is always on or it won't install the app. So you can use the EXE that doesn't reboot the system just fine, i will keep both exe anyways.
+
+NOTE: If for some reason the app doesn't get installed, Make sure the Android System is running. You can simply do this by launchning the Files app in WSA.
+![image](https://user-images.githubusercontent.com/24441639/138623825-d80f36e0-2b2c-4c64-91db-80fd69ba7dab.png)
+
+Android.App.Installer.NO.REBOOT.exe = Will not Reboot the Android System (Suggest Getting This one)
+Android.App.Installer.exe = Will Reboot the Android System
+Android.Settings.exe = Will Open the Settings of WSA
 
 This took me hours to figure out, since i have no clue on making stuff like this. Was trying to do it properly where it installs/opens the app and kills the server with no issues. Also wanted to make it so it doesn't include any extra files other than EXEs.
 
@@ -12,18 +18,13 @@ Android App Installer:
 - Double click an .APK to Install It.
 
 Info: 
-The EXE contains all of the adb needed files for the installation process to work, it extracts them in C:\Users\XX\AppData\Local\Temp temporarily then deletes them once the application is installed and reboots the Android System (Hopefully, This is because after few installs the ADB Server keeps refusing connection for some reason, this just hopefully makes it so that doesn't happen), it also kills the adb server once it ends, leaving no traces. 
+The EXE contains all of the adb needed files for the installation process to work, it extracts them in C:\Users\XX\AppData\Local\Temp temporarily then deletes them once the application is installed, it also kills the adb server once it ends, leaving no traces. 
 
 Application has been compiled by Bat To Exe Converter v3.2
 
 Android Settings Launcher:
 
 - Launches Android Settings. Works the same way as the Android App Installer, Except doesn't include the reboot command for obvious resons.
-
-NOTE: If for some reason the app doesn't get installed go to Windows Android Subsystem and Turn it Off, then launch the Files on top to start the system again.
-![image](https://user-images.githubusercontent.com/24441639/138528273-c9efb236-471f-4520-ac70-d148aa2373e9.png)
-
-
 
 The EXE Files only contain what is showed in the .BAT Files. Nothing extra. There are settings i have placed in by Bat To Exe Converter v3.2. I will include pictures of the settings made in BAT to Exe since i don't really know how else would i would show them. 
 
